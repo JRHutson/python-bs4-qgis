@@ -1,124 +1,132 @@
 STATION NAME,ALERT ID,AUTORAINGAGEREF. ID,LAT.,LONG.,ELEV.
 
-Acton Camp Precip ,384 ,250D ,34-26-52 ,118-11-47 ,"2,625.0 "
-Acton Escond Precip ,387 ,261F ,34-29-38 ,118-16-28 ,"2,926.0 "
-Acton Pump Station Precip. ,487 ,AL487 ,34-27-59 ,118-11-46 ,"2,732.0 "
-Agoura FS # 65 ,317 ,434 ,34-08-04 ,118-45-14 , 800.0 
-Aliso Canyon Precip ,302 ,446 ,34-19-07 ,118-33-17 ,"2,367.0 "
-Aliso Cyn-Wagon Wheel Ranch Precip ,357 ,423C ,34-24-55 ,118-05-30 ,"3,920.0 "
-Avek Precip ,359 ,1250 ,34-31-24 ,117-55-26 ,"2,825.0 "
-Ballona Crk Precip ,370 ,AL370 ,33-59-54 ,118-24-08 ,   9.0 
-Bel Air Hotel Precip ,323 ,10A ,34-05-10 ,118-26-47 , 490.0 
-Bell Cyn (Rocketdyne Precip) ,300 ,AL300 ,34-13-43 ,118-41-30 ,"2,189.0 "
-Bell Cyn Debris Basin Precip ,308 ,735H ,34-11-47 ,118-39-20 , 910.0 
-Big Dalton Dam Precip ,419 ,223C ,34-10-14 ,117-48-36 ,"1,740.0 "
-Big Pines Recreation Park Pcp ,365 ,83B ,34-22-44 ,117-41-20 ,"6,860.0 "
-Big Rock Mesa Precip ,320 ,1239 ,34-02-22 ,118-37-07 , 725.0 
-Big Tujunga Dam Precip ,334 ,46D ,34-17-07 ,118-11-43 ,"2,091.0 "
-Big Tujunga-Camp15 Precip ,307 ,694G ,34-17-21 ,118-17-16 ,"1,502.0 "
-Bouquet Cyn @ Urbandale Precip ,390 ,AL390 ,34-26-55 ,118-30-25 ,"1,280.0 "
-Brand Park Precip ,449 ,210C ,34-11-06 ,118-16-37 , 948.0 
-Brown's Canyon Precip ,301 ,AL301 ,34-18-42 ,118-36-30 ,"2,317.0 "
-Calabasas Fire Station #125 ,474 ,AL474 ,34-09-06 ,118-41-52 , 790.0 
-Camp Hi Hill Precip ,368 ,AL368 ,34-15-18 ,118-05-41 ,"4,268.0 "
-Castaic Junct Precip ,385 ,1012B ,34-26-20 ,118-36-25 , 979.0 
-Castaic Powerhouse ,466 ,AL466 ,34-35-17 ,118-39-18 ,"1,494.0 "
-Cedar Springs Precip ,363 ,402F ,34-21-22 ,117-52-38 ,"6,780.0 "
-Chilao-St Hwy Precip ,437 ,492A ,34-18-59 ,118-00-33 ,"5,275.0 "
-Clear Crk School Precip ,408 ,47D ,34-16-40 ,118-10-15 ,"3,150.0 "
-Cogswell Dam Precip ,411 ,334B ,34-14-35 ,117-57-39 ,"2,319.0 "
-Colby's Precip ,445 ,53D ,34-18-25 ,118-06-56 ,"3,397.0 "
-County Fire Station #80 ,488 ,120 ,34-29-18 ,118-08-31 ,"3,120.0 "
-County Fire Station #81 ,486 ,1005B ,34-31-09 ,118-17-13 ,"2,767.0 "
-Crystal Lake Precip ,391 ,283C ,34-19-01 ,117-50-32 ,"5,370.0 "
-Del Valle Training Ctr. Precip. ,446 ,AL446 ,34-25-47 ,118-40-01 ,"1,342.0 "
-Devils Gate Dam Precip ,337 ,453D ,34-11-08 ,118-11-43 , 980.0 
-Dominguez Water Co. Precip ,315 ,1113 ,33-49-54 ,118-13-31 ,  15.0 
-Eagle Rock Rsvr Precip ,311 ,802C ,34-08-46 ,118-11-28 , 970.0 
-Eaton Dam Precip ,343 ,449B ,34-10-04 ,118-05-34 , 892.0 
-Eaton Wash Precip ,382 ,AL382 ,34-04-29 ,118-03-17 , 259.0 
-Eighty-third Street Yard - FMD ,460 ,AL460 ,33-57-45 ,118-22-37 , 110.0 
-El Monte Fire Station 166 ,354 ,108D ,34-04-32 ,118-02-32 , 281.0 
-El Segundo Yard ,371 ,AL371 ,33-55-02 ,118-23-17 ,  97.0 
-Electric Avenue Pumping Plant ,461 ,AL461 ,33-59-35 ,118-28-23 , 397.0 
-Elizabeth Lake-Warm Springs Cmp Pcp ,394 ,128B ,34-36-30 ,118-33-34 ,"2,075.0 "
-Fire Station # 140 (Leona Valley) ,481 ,AL481 ,34-37-04 ,118-17-06 ,"3,172.0 "
-Fire Station #112 (Antelope Acres) ,480 ,AL480 ,34-45-16 ,118-17-18 ,"2,428.0 "
-Fire Station #115 ,459 ,AL459 ,33-53-17 ,118-05-32 ,  71.0 
-Fire Station 114 (Lake Los Angles) ,388 ,AL388 ,34-36-24 ,117-49-32 ,"2,710.0 "
-Fire Station 149 ,465 ,AL465 ,34-29-48 ,118-36-59 ,"1,129.0 "
-Fire Station 187 Precip ,350 ,356D ,34-02-45 ,117-48-27 , 628.0 
-Fire Station 56 Rolling Hills ,376 ,1011B ,33-45-25 ,118-21-16 ,"1,262.0 "
-Fire Station 77 ,468 ,AL468 ,34-45-35 ,118-47-52 ,"3,459.0 "
-Flintridge Precip ,453 ,280C ,34-10-51 ,118-11-10 ,"1,600.0 "
-Fremont Hdqtrs Precip ,456 ,1277 ,34-05-12 ,118-08-57 , 516.0 
-G-168 Pump Station ,441 ,1249 ,34-44-04 ,117-49-42 ,"2,941.0 "
-Gorman-Sheriff Precip ,404 ,298C ,34-47-46 ,118-51-21 ,"3,824.0 "
-Hacienda Hgts FS 91 Precip ,328 ,201E ,33-59-48 ,117-59-19 , 875.0 
-Hillcrest County Club ,403 ,462B ,34-03-05 ,118-24-17 , 185.0 
-Hollywood Rsrv Precip ,312 ,238 ,34-07-04 ,118-19-57 , 761.0 
-Imperial Yard - South FMD ,383 ,AL383 ,33-55-51 ,118-10-30 , 138.0 
-Inspiration Pnt Precip ,309 ,AL309 ,34-13-18 ,118-06-34 ,"4,484.0 "
-Irwindale Spreading Basin ,435 ,AL435 ,34-05-55 ,117-55-47 , 449.0 
-L.A. River @ Wardlow Precip ,314 ,AL314 ,33-49-02 ,118-12-23 ,  32.0 
-LA Ducommun St Precip ,377 ,716 ,34-03-07 ,118-14-06 , 306.0 
-La Habra Hgts Precip ,327 ,1088B ,33-56-52 ,117-57-55 , 445.0 
-La Mirada Precip ,326 ,156C ,33-52-59 ,118-01-02 ,  75.0 
-La Tuna DB Precip ,451 ,1107D ,34-14-11 ,118-19-40 ,"1,148.0 "
-Lancaster Waterworks ,485 ,AL485 ,34-40-01 ,118-07-31 ,"2,460.0 "
-Lechuza Pat Sta  # 72 ,454 ,352B ,34-04-35 ,118-52-51 ,"1,620.0 "
-Lewis Ranch Precip ,361 ,517B ,34-25-11 ,117-53-10 ,"4,615.0 "
-Little Gleason Fire Camp # 16 ,439 ,1074 ,34-22-42 ,118-09-01 ,"5,468.0 "
-Little Rock Crk Above Dam Percip ,358 ,1017B ,34-28-40 ,118-01-29 ,"3,267.0 "
-Little Rock-Sycamore Camp Pcp ,360 ,1060B ,34-25-02 ,117-58-13 ,"4,012.0 "
-Live Oak Dam Precip ,431 ,445B ,34-08-00 ,117-44-43 ,"1,567.0 "
-Llano ,423 ,564C ,34-29-08 ,117-50-04 ,"3,394.0 "
-Loomis Ranch Precip ,438 ,54C ,34-20-55 ,118-02-57 ,"4,325.0 "
-Los Angeles City College Precip ,310 ,355B ,34-05-14 ,118-17-32 , 395.0 
-Malibu Fire Station 70 ,378 ,447C ,34-02-20 ,118-39-00 ,  31.0 
-Manhattan Beach Precip ,373 ,1070 ,33-53-01 ,118-23-21 , 205.0 
-Mescal Smith Precip ,364 ,1248 ,34-28-00 ,117-42-40 ,"3,810.0 "
-Mill Crk Summit Precip ,306 ,1029C ,34-23-27 ,118-04-51 ,"4,909.0 "
-Mint Cyn @ Fitch Precip ,402 ,AL402 ,34-25-51 ,118-26-35 ,"1,671.0 "
-Monte Nido FS # 67 ,319 ,435 ,34-04-41 ,118-41-38 , 600.0 
-Montebello Fire Station HQ ,381 ,391C ,34-01-08 ,118-06-16 , 212.0 
-Morris Dam Precip ,416 ,390B ,34-10-30 ,117-52-52 ,"1,200.0 "
-Mt. Olive H.S. ,473 ,AL473 ,34-08-15 ,117-57-18 , 531.0 
-Neenach - Check 43 ,469 ,598D ,34-47-41 ,118-37-20 ,"2,973.0 "
-Newhall- FS #73 ,406 ,32C ,34-23-13 ,118-32-04 ,"1,331.0 "
-North Lancaster Precip ,484 ,1247 ,34-45-40 ,118-06-26 ,"2,340.0 "
-Northridge - LADWP ,463 ,25C ,34-13-54 ,118-32-31 ,"1,117.0 "
-Opids Camp ,3355 ,57B ,34-15-18 ,118-05-41 ,"4,320.0 "
-Pacoima Dam Precip ,331 ,33A ,34-19-48 ,118-23-59 ,"1,500.0 "
-Pacoima Wash S.G. Head Works ,464 ,AL464 ,34-15-44 ,118-26-37 ,"1,009.0 "
-Palmdale Water Dist.  ,482 ,1058B ,34-35-18 ,118-05-38 ,"2,627.0 "
-Pine Canyon Patrol Station # 78 ,393 ,321 ,34-40-27 ,118-25-51 ,"3,304.0 "
-Pnt Vicen Ligh Precip ,321 ,44A ,33-44-29 ,118-24-38 , 125.0 
-Puddingstone Dam Precip ,428 ,96C ,34-05-27 ,117-48-32 , 988.0 
-Puddingstone Div Precip ,425 ,134C ,34-07-51 ,117-46-59 ,"1,185.0 "
-Quartz Hill Precip ,475 ,1245 ,34-38-58 ,118-13-02 ,"2,427.0 "
-RD 232A Lawndale ,374 ,AL374 ,33-48-16 ,118-18-43 ,  44.0 
-RD 241 Precip ,316 ,291 ,33-56-51 ,118-15-21 , 121.0 
-Redman Precip ,443 ,1243 ,34-45-54 ,117-55-34 ,"2,387.0 "
-Redondo Beach Yard ,372 ,AL372 ,33-51-25 ,118-23-00 , 170.0 
-Rio Hondo Spreading Grounds ,440 ,AL440 ,34-00-07 ,118-06-03 , 264.0 
-Road Maint Sub Yrd. 417 ,436 ,AL436 ,33-59-42 ,117-52-03 , 582.0 
-Rocky Buttes Precip ,442 ,1242 ,34-38-46 ,117-50-43 ,"2,540.0 "
-Roper Ranch Precip ,483 ,1244 ,34-40-23 ,118-00-39 ,"2,438.0 "
-Rose Hills Repeating Raingage ,400 ,AL400 ,34-01-01 ,118-00-55 ,"1,138.0 "
-San Antonio Cyn-Sierra Pw House Pcp ,458 ,619 ,34-13-23 ,117-40-02 ,"3,854.0 "
-San Dimas Dam Precip ,422 ,89B ,34-09-17 ,117-46-20 ,"1,490.0 "
-San Dimas Fire Station 64 ,356 ,95 ,34-06-19 ,117-48-08 , 917.0 
-San Francisquito Powerhouse  # 2 ,395 ,372 ,34-32-01 ,118-31-31 ,"1,609.0 "
-San Gab @ Spring Precip ,379 ,AL379 ,33-48-42 ,118-05-28 ,  16.0 
-San Gab Pow House Precip ,349 ,627 ,34-09-19 ,117-54-31 , 744.0 
-San Gabriel @ Valley Precip ,352 ,AL352 ,34-03-12 ,118-00-33 , 315.0 
-San Gabriel Dam Precip ,413 ,425B ,34-12-19 ,117-51-42 ,"1,490.0 "
-San Gabriel East Fork Fire Precip. ,457 ,379C ,34-14-09 ,117-49-30 ,"1,664.0 "
-Sanberg - Airways Station ,467 ,747 ,34-44-36 ,118-43-30 ,"4,510.0 "
-Sand Cyn Fire Station 123 Precip. ,386 ,493F ,34-23-06 ,118-24-52 ,"1,849.0 "
-Santa Anita Dam Precip ,346 ,63C ,34-11-03 ,118-01-12 ,"1,400.0 "
-Sawpit Dam Precip ,340 ,68C ,34-10-33 ,117-59-17 ,"1,345.0 "
-Schoolhouse DB Precip ,450 ,395C ,34-19-31 ,118-27-30 ,"1,476.0 "
-Scott Ranch Precip ,362 ,1246 ,34-47-26 ,118-27-35 ,"2,718.0 "
-Sepulv cyn @ Mulholland  FS #109 ,322 ,17 ,34-07-49 ,118-29-33 ,"1,448.0 "
+Acton Camp PrecipÂ ,384Â ,250DÂ ,34-26-52Â ,118-11-47Â ,"2,625.0Â "
+Acton Escond PrecipÂ ,387Â ,261FÂ ,34-29-38Â ,118-16-28Â ,"2,926.0Â "
+Acton Pump Station Precip.Â ,487Â ,AL487Â ,34-27-59Â ,118-11-46Â ,"2,732.0Â "
+Agoura FS # 65Â ,317Â ,434Â ,34-08-04Â ,118-45-14Â , 800.0Â 
+Aliso Canyon PrecipÂ ,302Â ,446Â ,34-19-07Â ,118-33-17Â ,"2,367.0Â "
+Aliso Cyn-Wagon Wheel Ranch PrecipÂ ,357Â ,423CÂ ,34-24-55Â ,118-05-30Â ,"3,920.0Â "
+Avek PrecipÂ ,359Â ,1250Â ,34-31-24Â ,117-55-26Â ,"2,825.0Â "
+Ballona Crk PrecipÂ ,370Â ,AL370Â ,33-59-54Â ,118-24-08Â ,   9.0Â 
+Bel Air Hotel PrecipÂ ,323Â ,10AÂ ,34-05-10Â ,118-26-47Â , 490.0Â 
+Bell Cyn (Rocketdyne Precip)Â ,300Â ,AL300Â ,34-13-43Â ,118-41-30Â ,"2,189.0Â "
+Bell Cyn Debris Basin PrecipÂ ,308Â ,735HÂ ,34-11-47Â ,118-39-20Â , 910.0Â 
+Big Dalton Dam PrecipÂ ,419Â ,223CÂ ,34-10-14Â ,117-48-36Â ,"1,740.0Â "
+Big Pines Recreation Park PcpÂ ,365Â ,83BÂ ,34-22-44Â ,117-41-20Â ,"6,860.0Â "
+Big Rock Mesa PrecipÂ ,320Â ,1239Â ,34-02-22Â ,118-37-07Â , 725.0Â 
+Big Tujunga Dam PrecipÂ ,334Â ,46DÂ ,34-17-07Â ,118-11-43Â ,"2,091.0Â "
+Big Tujunga-Camp15 PrecipÂ ,307Â ,694GÂ ,34-17-21Â ,118-17-16Â ,"1,502.0Â "
+Bouquet Cyn @ Urbandale PrecipÂ ,390Â ,AL390Â ,34-26-55Â ,118-30-25Â ,"1,280.0Â "
+Brand Park PrecipÂ ,449Â ,210CÂ ,34-11-06Â ,118-16-37Â , 948.0Â 
+Brown's Canyon PrecipÂ ,301Â ,AL301Â ,34-18-42Â ,118-36-30Â ,"2,317.0Â "
+Calabasas Fire Station #125Â ,474Â ,AL474Â ,34-09-06Â ,118-41-52Â , 790.0Â 
+Camp Hi Hill PrecipÂ ,368Â ,AL368Â ,34-15-18Â ,118-05-41Â ,"4,268.0Â "
+Castaic Junct PrecipÂ ,385Â ,1012BÂ ,34-26-20Â ,118-36-25Â , 979.0Â 
+Castaic PowerhouseÂ ,466Â ,AL466Â ,34-35-17Â ,118-39-18Â ,"1,494.0Â "
+Cedar Springs PrecipÂ ,363Â ,402FÂ ,34-21-22Â ,117-52-38Â ,"6,780.0Â "
+Chilao-St Hwy PrecipÂ ,437Â ,492AÂ ,34-18-59Â ,118-00-33Â ,"5,275.0Â "
+Clear Crk School PrecipÂ ,408Â ,47DÂ ,34-16-40Â ,118-10-15Â ,"3,150.0Â "
+Cogswell Dam PrecipÂ ,411Â ,334BÂ ,34-14-35Â ,117-57-39Â ,"2,319.0Â "
+Colby's PrecipÂ ,445Â ,53DÂ ,34-18-25Â ,118-06-56Â ,"3,397.0Â "
+County Fire Station #80Â ,488Â ,120Â ,34-29-18Â ,118-08-31Â ,"3,120.0Â "
+County Fire Station #81Â ,486Â ,1005BÂ ,34-31-09Â ,118-17-13Â ,"2,767.0Â "
+Crystal Lake PrecipÂ ,391Â ,283CÂ ,34-19-01Â ,117-50-32Â ,"5,370.0Â "
+Del Valle Training Ctr. Precip.Â ,446Â ,AL446Â ,34-25-47Â ,118-40-01Â ,"1,342.0Â "
+Devils Gate Dam PrecipÂ ,337Â ,453DÂ ,34-11-08Â ,118-11-43Â , 980.0Â 
+Dominguez Water Co. PrecipÂ ,315Â ,1113Â ,33-49-54Â ,118-13-31Â ,  15.0Â 
+Eagle Rock Rsvr PrecipÂ ,311Â ,802CÂ ,34-08-46Â ,118-11-28Â , 970.0Â 
+Eaton Dam PrecipÂ ,343Â ,449BÂ ,34-10-04Â ,118-05-34Â , 892.0Â 
+Eaton Wash PrecipÂ ,382Â ,AL382Â ,34-04-29Â ,118-03-17Â , 259.0Â 
+Eighty-third Street Yard - FMDÂ ,460Â ,AL460Â ,33-57-45Â ,118-22-37Â , 110.0Â 
+El Monte Fire Station 166Â ,354Â ,108DÂ ,34-04-32Â ,118-02-32Â , 281.0Â 
+El Segundo YardÂ ,371Â ,AL371Â ,33-55-02Â ,118-23-17Â ,  97.0Â 
+Electric Avenue Pumping PlantÂ ,461Â ,AL461Â ,33-59-35Â ,118-28-23Â , 397.0Â 
+Elizabeth Lake-Warm Springs Cmp PcpÂ ,394Â ,128BÂ ,34-36-30Â ,118-33-34Â ,"2,075.0Â "
+Fire Station # 140 (Leona Valley)Â ,481Â ,AL481Â ,34-37-04Â ,118-17-06Â ,"3,172.0Â "
+Fire Station #112 (Antelope Acres)Â ,480Â ,AL480Â ,34-45-16Â ,118-17-18Â ,"2,428.0Â "
+Fire Station #115Â ,459Â ,AL459Â ,33-53-17Â ,118-05-32Â ,  71.0Â 
+Fire Station 114 (Lake Los Angles)Â ,388Â ,AL388Â ,34-36-24Â ,117-49-32Â ,"2,710.0Â "
+Fire Station 149Â ,465Â ,AL465Â ,34-29-48Â ,118-36-59Â ,"1,129.0Â "
+Fire Station 187 PrecipÂ ,350Â ,356DÂ ,34-02-45Â ,117-48-27Â , 628.0Â 
+Fire Station 56 Rolling HillsÂ ,376Â ,1011BÂ ,33-45-25Â ,118-21-16Â ,"1,262.0Â "
+Fire Station 77Â ,468Â ,AL468Â ,34-45-35Â ,118-47-52Â ,"3,459.0Â "
+Flintridge PrecipÂ ,453Â ,280CÂ ,34-10-51Â ,118-11-10Â ,"1,600.0Â "
+Fremont Hdqtrs PrecipÂ ,456Â ,1277Â ,34-05-12Â ,118-08-57Â , 516.0Â 
+G-168 Pump StationÂ ,441Â ,1249Â ,34-44-04Â ,117-49-42Â ,"2,941.0Â "
+Gorman-Sheriff PrecipÂ ,404Â ,298CÂ ,34-47-46Â ,118-51-21Â ,"3,824.0Â "
+Hacienda Hgts FS 91 PrecipÂ ,328Â ,201EÂ ,33-59-48Â ,117-59-19Â , 875.0Â 
+Hillcrest County ClubÂ ,403Â ,462BÂ ,34-03-05Â ,118-24-17Â , 185.0Â 
+Hollywood Rsrv PrecipÂ ,312Â ,238Â ,34-07-04Â ,118-19-57Â , 761.0Â 
+Imperial Yard - South FMDÂ ,383Â ,AL383Â ,33-55-51Â ,118-10-30Â , 138.0Â 
+Inspiration Pnt PrecipÂ ,309Â ,AL309Â ,34-13-18Â ,118-06-34Â ,"4,484.0Â "
+Irwindale Spreading BasinÂ ,435Â ,AL435Â ,34-05-55Â ,117-55-47Â , 449.0Â 
+L.A. River @ Wardlow PrecipÂ ,314Â ,AL314Â ,33-49-02Â ,118-12-23Â ,  32.0Â 
+LA Ducommun St PrecipÂ ,377Â ,716Â ,34-03-07Â ,118-14-06Â , 306.0Â 
+La Habra Hgts PrecipÂ ,327Â ,1088BÂ ,33-56-52Â ,117-57-55Â , 445.0Â 
+La Mirada PrecipÂ ,326Â ,156CÂ ,33-52-59Â ,118-01-02Â ,  75.0Â 
+La Tuna DB PrecipÂ ,451Â ,1107DÂ ,34-14-11Â ,118-19-40Â ,"1,148.0Â "
+Lancaster WaterworksÂ ,485Â ,AL485Â ,34-40-01Â ,118-07-31Â ,"2,460.0Â "
+Lechuza Pat Sta  # 72Â ,454Â ,352BÂ ,34-04-35Â ,118-52-51Â ,"1,620.0Â "
+Lewis Ranch PrecipÂ ,361Â ,517BÂ ,34-25-11Â ,117-53-10Â ,"4,615.0Â "
+Little Gleason Fire Camp # 16Â ,439Â ,1074Â ,34-22-42Â ,118-09-01Â ,"5,468.0Â "
+Little Rock Crk Above Dam PercipÂ ,358Â ,1017BÂ ,34-28-40Â ,118-01-29Â ,"3,267.0Â "
+Little Rock-Sycamore Camp PcpÂ ,360Â ,1060BÂ ,34-25-02Â ,117-58-13Â ,"4,012.0Â "
+Live Oak Dam PrecipÂ ,431Â ,445BÂ ,34-08-00Â ,117-44-43Â ,"1,567.0Â "
+LlanoÂ ,423Â ,564CÂ ,34-29-08Â ,117-50-04Â ,"3,394.0Â "
+Loomis Ranch PrecipÂ ,438Â ,54CÂ ,34-20-55Â ,118-02-57Â ,"4,325.0Â "
+Los Angeles City College PrecipÂ ,310Â ,355BÂ ,34-05-14Â ,118-17-32Â , 395.0Â 
+Malibu Fire Station 70Â ,378Â ,447CÂ ,34-02-20Â ,118-39-00Â ,  31.0Â 
+Manhattan Beach PrecipÂ ,373Â ,1070Â ,33-53-01Â ,118-23-21Â , 205.0Â 
+Mescal Smith PrecipÂ ,364Â ,1248Â ,34-28-00Â ,117-42-40Â ,"3,810.0Â "
+Mill Crk Summit PrecipÂ ,306Â ,1029CÂ ,34-23-27Â ,118-04-51Â ,"4,909.0Â "
+Mint Cyn @ Fitch PrecipÂ ,402Â ,AL402Â ,34-25-51Â ,118-26-35Â ,"1,671.0Â "
+Monte Nido FS # 67Â ,319Â ,435Â ,34-04-41Â ,118-41-38Â , 600.0Â 
+Montebello Fire Station HQÂ ,381Â ,391CÂ ,34-01-08Â ,118-06-16Â , 212.0Â 
+Morris Dam PrecipÂ ,416Â ,390BÂ ,34-10-30Â ,117-52-52Â ,"1,200.0Â "
+Mt. Olive H.S.Â ,473Â ,AL473Â ,34-08-15Â ,117-57-18Â , 531.0Â 
+Neenach - Check 43Â ,469Â ,598DÂ ,34-47-41Â ,118-37-20Â ,"2,973.0Â "
+Newhall- FS #73Â ,406Â ,32CÂ ,34-23-13Â ,118-32-04Â ,"1,331.0Â "
+North Lancaster PrecipÂ ,484Â ,1247Â ,34-45-40Â ,118-06-26Â ,"2,340.0Â "
+Northridge - LADWPÂ ,463Â ,25CÂ ,34-13-54Â ,118-32-31Â ,"1,117.0Â "
+Opids CampÂ ,3355Â ,57BÂ ,34-15-18Â ,118-05-41Â ,"4,320.0Â "
+Pacoima Dam PrecipÂ ,331Â ,33AÂ ,34-19-48Â ,118-23-59Â ,"1,500.0Â "
+Pacoima Wash S.G. Head WorksÂ ,464Â ,AL464Â ,34-15-44Â ,118-26-37Â ,"1,009.0Â "
+Palmdale Water Dist. Â ,482Â ,1058BÂ ,34-35-18Â ,118-05-38Â ,"2,627.0Â "
+Pine Canyon Patrol Station # 78Â ,393Â ,321Â ,34-40-27Â ,118-25-51Â ,"3,304.0Â "
+Pnt Vicen Ligh PrecipÂ ,321Â ,44AÂ ,33-44-29Â ,118-24-38Â , 125.0Â 
+Puddingstone Dam PrecipÂ ,428Â ,96CÂ ,34-05-27Â ,117-48-32Â , 988.0Â 
+Puddingstone Div PrecipÂ ,425Â ,134CÂ ,34-07-51Â ,117-46-59Â ,"1,185.0Â "
+Quartz Hill PrecipÂ ,475Â ,1245Â ,34-38-58Â ,118-13-02Â ,"2,427.0Â "
+RD 232A LawndaleÂ ,374Â ,AL374Â ,33-48-16Â ,118-18-43Â ,  44.0Â 
+RD 241 PrecipÂ ,316Â ,291Â ,33-56-51Â ,118-15-21Â , 121.0Â 
+Redman PrecipÂ ,443Â ,1243Â ,34-45-54Â ,117-55-34Â ,"2,387.0Â "
+Redondo Beach YardÂ ,372Â ,AL372Â ,33-51-25Â ,118-23-00Â , 170.0Â 
+Rio Hondo Spreading GroundsÂ ,440Â ,AL440Â ,34-00-07Â ,118-06-03Â , 264.0Â 
+Road Maint Sub Yrd. 417Â ,436Â ,AL436Â ,33-59-42Â ,117-52-03Â , 582.0Â 
+Rocky Buttes PrecipÂ ,442Â ,1242Â ,34-38-46Â ,117-50-43Â ,"2,540.0Â "
+Roper Ranch PrecipÂ ,483Â ,1244Â ,34-40-23Â ,118-00-39Â ,"2,438.0Â "
+Rose Hills Repeating RaingageÂ ,400Â ,AL400Â ,34-01-01Â ,118-00-55Â ,"1,138.0Â "
+San Antonio Cyn-Sierra Pw House PcpÂ ,458Â ,619Â ,34-13-23Â ,117-40-02Â ,"3,854.0Â "
+San Dimas Dam PrecipÂ ,422Â ,89BÂ ,34-09-17Â ,117-46-20Â ,"1,490.0Â "
+San Dimas Fire Station 64Â ,356Â ,95Â ,34-06-19Â ,117-48-08Â , 917.0Â 
+San Francisquito Powerhouse  # 2Â ,395Â ,372Â ,34-32-01Â ,118-31-31Â ,"1,609.0Â "
+San Gab @ Spring PrecipÂ ,379Â ,AL379Â ,33-48-42Â ,118-05-28Â ,  16.0Â 
+San Gab Pow House PrecipÂ ,349Â ,627Â ,34-09-19Â ,117-54-31Â , 744.0Â 
+San Gabriel @ Valley PrecipÂ ,352Â ,AL352Â ,34-03-12Â ,118-00-33Â , 315.0Â 
+San Gabriel Dam PrecipÂ ,413Â ,425BÂ ,34-12-19Â ,117-51-42Â ,"1,490.0Â "
+San Gabriel East Fork Fire Precip.Â ,457Â ,379CÂ ,34-14-09Â ,117-49-30Â ,"1,664.0Â "
+Sanberg - Airways StationÂ ,467Â ,747Â ,34-44-36Â ,118-43-30Â ,"4,510.0Â "
+Sand Cyn Fire Station 123 Precip.Â ,386Â ,493FÂ ,34-23-06Â ,118-24-52Â ,"1,849.0Â "
+Santa Anita Dam PrecipÂ ,346Â ,63CÂ ,34-11-03Â ,118-01-12Â ,"1,400.0Â "
+Sawpit Dam PrecipÂ ,340Â ,68CÂ ,34-10-33Â ,117-59-17Â ,"1,345.0Â "
+Schoolhouse DB PrecipÂ ,450Â ,395CÂ ,34-19-31Â ,118-27-30Â ,"1,476.0Â "
+Scott Ranch PrecipÂ ,362Â ,1246Â ,34-47-26Â ,118-27-35Â ,"2,718.0Â "
+Sepulv cyn @ Mulholland  FS #109Â ,322Â ,17Â ,34-07-49Â ,118-29-33Â ,"1,448.0Â "
+Signal Hill City Hall PrecipÂ ,325Â ,415Â ,33-47-48Â ,118-10-06Â , 140.0Â 
+Tanbark PrecipÂ ,444Â ,158Â ,34-12-27Â ,117-45-42Â ,"2,760.0Â "
+Thompson Crk. Dam PrecipÂ ,434Â ,626Â ,34-08-25Â ,117-42-44Â ,"1,687.0Â "
+Topanga Canyon Patrol Station PcpÂ ,318Â ,6Â ,34-05-02Â ,118-36-00Â , 745.0Â 
+Tujunga S.G.Â ,462Â ,AL462Â ,34-14-06Â ,118-24-27Â ,"1,084.0Â "
+USCÂ ,375Â ,482Â ,34-01-21Â ,118-17-27Â , 213.0Â 
+Walnut Crk SB PrecipÂ ,448Â ,AL448Â ,34-04-29Â ,117-52-23Â , 520.0Â 
+West Fk Heli PrecipÂ ,452Â ,AL452Â ,34-15-03Â ,118-01-35Â ,"4,000.0Â "

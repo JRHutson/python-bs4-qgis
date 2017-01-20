@@ -14,7 +14,7 @@ list_of_rows = []
 for row in table.findAll('tr'):
     list_of_cells = []
     for cell in row.findAll('td'):
-        text = cell.text.replace('&nbsp;', '')
+        text = cell.text.encode('utf-8').replace('&nbsp;', '')
         list_of_cells.append(text)
     list_of_rows.append(list_of_cells)
 
